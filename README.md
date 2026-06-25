@@ -1,5 +1,5 @@
 # Brain-Tumor-Detection-Using-CVDL-from-MRI-Images
-# Brain Tumor Detection Using Deep Learning from MRI Images
+
 
 **Author:** Abdullah Al Noman Taki (VR528988)
 **Course:** Computer Vision & Deep Learning — University of Verona
